@@ -1,11 +1,13 @@
-# IMT2200 - Introducción a la Ciencia de Datos :house:
+# IMT2200 - Introducción a la Ciencia de Datos - Benjamín Ubilla :house:
 
 :octocat: Repositorio en GitHub del Curso – Segundo Semestre 2025  
 **Profesor:** Rodrigo A. Carrasco ([rcarrass@uc.cl](mailto:rcarrass@uc.cl))
+**Estudiante:** Benjamín Ubilla ([benjamin.ubilla@uc.cl](mailto:benjamin.ubilla@uc.cl))
 
 Este repositorio contiene todo el material del curso **IMT2200 - Introducción a la Ciencia de Datos**, impartido por el Instituto de Ingeniería Matemática y Computacional de la Pontificia Universidad Católica de Chile.
 
-Aquí encontrarás clases, actividades, tareas, interrogaciones, y el proyecto final del curso.
+Aquí encontrarás clases, actividades, tareas, interrogaciones, y el proyecto final del curso. Además, se presentan las soluciones de **Benjamín Ubilla** a las actividades y tareas.
+
 
 ## Actualizaciones
 
@@ -18,6 +20,7 @@ Este repositorio se actualizará al menos semanalmente agregando el material a u
 - `/clases`: Notebooks y presentaciones utilizadas durante las clases.
 - `/ayudantias`: Material de apoyo y ejercicios prácticos resueltos en ayudantías.
 - `/actividades`: Actividades prácticas evaluadas realizadas en clases y ayudantías.
+- `/actividad 01`: Solución de la primera actividad del curso.
 - `/tareas`: Enunciados, instrucciones y archivos base de cada tarea individual.
 - `/interrogaciones`: Material de repaso y enunciados de interrogaciones.
 - `/proyecto`: Instrucciones, fechas y entregables del proyecto grupal.
